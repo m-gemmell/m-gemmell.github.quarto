@@ -34,7 +34,7 @@ website:
       - icon: github
         href: https://github.com/m-gemmell/
         aria-label: GitHub
-      - text: "![](/images/Bluesky_Logo.svg){height=20px}"
+      - text: "![](/images/Bluesky_quarto_navbar.svg){height=20px}"
         href: https://bsky.app/profile/m-gemmell.bsky.social
 ##Apge footer
   page-footer:

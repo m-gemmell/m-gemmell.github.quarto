@@ -19,15 +19,27 @@ $CB-pink: #CC6677;
 $CB-dark-pink: #AA4499;
 $CB-purple-pink: #882255;
 
+$twenty-seaweed: #008080;
+
+$pd-yellow: #ffe119;
+$dark-purple:#693382;
+$pd-blue: #0082c8;
+
+$gol-white: #fff1e8;
+$gol-grey: #c2c3c7;
+$gol-dark-grey: #5f574f;
+
 // Base document colors
-$navbar-bg: $CB-purple-pink;
-$navbar-hl: $CB-yellow; // highlight color when hovering over navbar links
-$footer-bg: $CB-purple-pink; // footer
-$sidebar-hl: $CB-purple;
+$navbar-bg: $twenty-seaweed;
+$navbar-hl: $pd-yellow; // highlight color when hovering over navbar links
+$footer-bg: $twenty-seaweed; // footer
+$sidebar-hl: $pd-blue;
+$nav-link: $gol-white;
 
 $link-color: $ibm-blue;
 
 /*-- scss:rules --*/
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Lexend";
 }
