@@ -86,21 +86,21 @@
   {
     "objectID": "guides.html",
     "href": "guides.html",
-    "title": "Academia",
+    "title": "Guides",
     "section": "",
     "text": "Below are links to guides I create for myself and others to use."
   },
   {
     "objectID": "guides.html#mg-bookdown-guide",
     "href": "guides.html#mg-bookdown-guide",
-    "title": "Academia",
+    "title": "Guides",
     "section": "MG Bookdown guide",
     "text": "MG Bookdown guide\n\n\n\n A quick and dirty guide on how I use bookdown. It is primarily for my use but if someone else finds it I hope it will also proof useful. Additionally, this was made with R Bookdown.\nLink: https://m-gemmell.github.io/Bookdown_guide/01-MG_Bookdown_guide.html"
   },
   {
     "objectID": "guides.html#mg-nextflow-guide",
     "href": "guides.html#mg-nextflow-guide",
-    "title": "Academia",
+    "title": "Guides",
     "section": "MG Nextflow guide",
     "text": "MG Nextflow guide\n\n\n\n A quick and dirty guide on how I use Nextflow It is primarily for my use but if someone else finds it I hope it will also proof useful. Additionally, this was made with R Bookdown.\nLink: https://m-gemmell.github.io/Nextflow_guide/"
   },

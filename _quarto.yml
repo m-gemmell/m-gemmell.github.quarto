@@ -36,6 +36,9 @@ website:
         aria-label: GitHub
       - text: "![](/images/Bluesky_quarto_navbar.svg){height=20px}"
         href: https://bsky.app/profile/m-gemmell.bsky.social
+      - icon:  linkedin
+        href: https://www.linkedin.com/in/mattie-matthew-gemmell-b562a0b8/
+        aria-label: LinkedIn
 ##Apge footer
   page-footer:
     center: |

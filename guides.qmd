@@ -1,5 +1,5 @@
 ---
-title: "Academia"
+title: "Guides"
 ---
 <center>
 ![](images/books.png){style="width:100px"}

@@ -17,7 +17,7 @@ This includes:
 
 - [Education](./education.qmd): Courses you can run through and my thoughts on education.
 - [Academia](./academia.qmd): My published papers and related github pages.
-- [Hobbies](./Hobbies.qmd): Websites I create for my creative hobbies. Primarily RPG based.
+- [Hobbies](./hobbies.qmd): Websites I create for my creative hobbies. Primarily RPG based.
 - [Guides](./guides.qmd): Guides to help with coding, kind of like more in depth cheatsheets.
 
 ## Contact
