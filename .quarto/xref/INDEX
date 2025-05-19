@@ -220,5 +220,11 @@
   },
   "guides.qmd": {
     "guides.html": "baece350"
+  },
+  "handy_links.qmd": {
+    "handy_links.html": "452a3ab8"
+  },
+  "projects.qmd": {
+    "projects.html": "f2fa8b5c"
   }
 }

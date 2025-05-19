@@ -1,0 +1,20 @@
+---
+title: "Handy links"
+format: html
+---
+<center>
+![](images/link.png){style="width:100px"}
+</center>
+<br>
+A place for links I find useful
+
+## R & quarto
+
+- [Tidyverse homepage](https://www.tidyverse.org/)
+- [Posit cheatsheets](https://rstudio.github.io/cheatsheets/)
+- [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/)
+
+## Images
+
+- [Noun project](https://thenounproject.com/)
+- [Phylopic](https://www.phylopic.org/)

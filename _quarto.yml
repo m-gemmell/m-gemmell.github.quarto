@@ -25,6 +25,10 @@ website:
         href: hobbies.qmd
       - text: "Guides"
         href: guides.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Handy links"
+        href: handy_links.qmd
 ###Navbar right
     right:
     # List of icons: https://icons.getbootstrap.com/
@@ -75,6 +79,18 @@ website:
       align: left
       contents:
         - href: guides.qmd
+    - id: Projects
+      title: "Projects"
+      style: "floating"
+      align: left
+      contents:
+        - href: projects.qmd
+    - id: Handy links
+      title: "Handy links"
+      style: "floating"
+      align: left
+      contents:
+        - href: handy_links.qmd
 
 
 #Format

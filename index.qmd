@@ -19,6 +19,8 @@ This includes:
 - [Academia](./academia.qmd): My published papers and related github pages.
 - [Hobbies](./hobbies.qmd): Websites I create for my creative hobbies. Primarily RPG based.
 - [Guides](./guides.qmd): Guides to help with coding, kind of like more in depth cheatsheets.
+- [Projects](./projects.qmd): Various projects I have created.
+- [handy links](./handy_links.qmd): Links I find useful.
 
 ## Contact
 
