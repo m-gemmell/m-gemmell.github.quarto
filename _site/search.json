@@ -112,6 +112,13 @@
     "text": "MG Nextflow guide\n\n\n\n A quick and dirty guide on how I use Nextflow It is primarily for my use but if someone else finds it I hope it will also proof useful. Additionally, this was made with R Bookdown.\nLink: https://m-gemmell.github.io/Nextflow_guide/"
   },
   {
+    "objectID": "guides.html#neof-tidyverse",
+    "href": "guides.html#neof-tidyverse",
+    "title": "Guides",
+    "section": "NEOF Tidyverse",
+    "text": "NEOF Tidyverse\nA resource for the R Tidyverse suite of packages. It is intended as a quick one-stop reference for the various tidyverse packages and their functions, also known as a cookbook.\nLink: https://neof-workshops.github.io/Tidyverse/"
+  },
+  {
     "objectID": "handy_links.html",
     "href": "handy_links.html",
     "title": "Handy links",
