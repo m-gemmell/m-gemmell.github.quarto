@@ -30,9 +30,7 @@ You can also check out my [Linkedin account](https://www.linkedin.com/in/mattie-
 
 ## Donations
 
-If you would like to donate to me you can do so on my [Ko-fi](https://ko-fi.com/waveofinspiration):
-
-<p align="center"><iframe id='kofiframe' src='https://ko-fi.com/waveofinspiration/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:0px' height='650' title='waveofinspiration'></iframe>
+If you would like to donate to me you can do so on my [Ko-fi](https://ko-fi.com/waveofinspiration)
 
 ## License {.unnumbered}
 

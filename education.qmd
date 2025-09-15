@@ -29,6 +29,16 @@ Link: [https://m-gemmell.github.io/PGCAP/MG_PGCAP.html](https://m-gemmell.github
 
 YouTube link of recorded talk: [https://www.youtube.com/watch?v=068Wx19OjxM&t=1s](https://www.youtube.com/watch?v=068Wx19OjxM&t=1s)
 
+## Curious archives: or Books that question you
+
+<center>
+![](images/question_book.png){style="width:100px"}
+</center>
+
+Slides about formative assessment and the use of interactive MCQs (Multiple Choice Questions)
+
+Link: [https://m-gemmell.github.io/slides/curious_archives/](https://m-gemmell.github.io/slides/curious_archives/)
+
 ## PGCAP Portfolio
 
 The e-portfolio I created for my PGCAP (Postgraduate Certificate of Academic Practice).
