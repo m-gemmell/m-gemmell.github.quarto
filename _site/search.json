@@ -1,10 +1,40 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A space for various projects I have created.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#mgrtibbles",
+    "href": "projects.html#mgrtibbles",
+    "title": "Projects",
+    "section": "mgrtibbles",
+    "text": "mgrtibbles\nR tibbles containing various data curated by m-gemmell\nGithub repo link",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
     "objectID": "hobbies.html",
     "href": "hobbies.html",
     "title": "Hobbies",
     "section": "",
-    "text": "Websites realted to my hobbies. These are primarily related to role playing games.\nMy itch.io page",
+    "text": "Websites related to my hobbies. These are primarily related to role playing games.\nMy itch.io page",
+    "crumbs": [
+      "Hobbies"
+    ]
+  },
+  {
+    "objectID": "hobbies.html#liminal-horror",
+    "href": "hobbies.html#liminal-horror",
+    "title": "Hobbies",
+    "section": "Liminal Horror",
+    "text": "Liminal Horror\n\n\n\n “LIMINAL HORROR is a rules-lite, adaptable Survival-Horror roleplaying game about normal characters and their struggles against the things that go bump in the night.”\nOfficial website: https://liminalhorrorrpg.com/\nBelow are supplements for Liminal Horror created by me.\n\nEmaciated Entities\nThis contains information on 7 greater horrors called the Emaciated Entities. It contains a poem, information, and a mystery for each entity.\nAdditionally, it contains rules for how to run Sticky crawls. This is a method to create mystery/adventure areas with each location represented by a sticky note. The intention is to create random layouts quickly during play.\nWebsite: https://m-gemmell.github.io/Emaciated_Entities/",
     "crumbs": [
       "Hobbies"
     ]
@@ -14,139 +44,19 @@
     "href": "hobbies.html#puml",
     "title": "Hobbies",
     "section": "PUML",
-    "text": "PUML\n\n\n\n PUML is a hack the FIST RPG. Whereas FIST is a high lethality system, PUML attempts to be less lethal allowing characters to more easily survive through a campaign.\nWebsite: https://m-gemmell.github.io/PUML/\nItch.io: https://m-gemmell.itch.io/puml",
+    "text": "PUML\n\n\n\n PUML is a hack the FIST RPG. Whereas FIST is a high lethality system, PUML attempts to be less lethal allowing characters to more easily survive through a campaign.\nWebsite: https://m-gemmell.github.io/PUML/\nItch.io: https://m-gemmell.itch.io/puml\n\nPrimeval Deities\n\n\n\n A website to host faction information of the Primeval deities for my PUML RPG. Contains missions, lore, and a “bestiary”.\nWebsite: https://m-gemmell.github.io/PRIMEVAL_DEITIES/\n\n\nDendrosphaera\n\n\n\n\nA campaign setting for PUML. Very much under construction.\nWebsite: https://m-gemmell.github.io/DENDROSPHAERA/\n\n\nTHE RUSTLANDS\n\n\n\n\nThe Rustlands is a setting for FIST. It is heavily steeped in speculative biology with various sentient creatures roaming the lands. Due to the war of 2 deities the waters of this alternate Earth have drained into the ground. Storms rage across the whole world with only a few safe havens formed by the presence of 2 other deities. It is one of these safe havens where the team will enter and explore.\nLink: https://m-gemmell.itch.io/the-rust-lands\n\n\nPOPS: Possible Oil Pipe Sabotage\n\n\n\n\nA Dilemma mission for the FIST RPG, were the PCs mercenary crew must decide between protecting an oil pipeline or sabotaging it. Descend into the dense Black forest and lay down you mark on the world.\nLink: https://m-gemmell.itch.io/pops-possible-oil-pipe-sabotage\n\n\nAWE: Auroras & Worm Eradication\nSnow sport enthusiasts are being found dead with shark-like bites at the Aurora ski resort in Skifry, Canada. Refraction Sports are planning to hold a televised event next year at the Aurora. They want these deaths to stop. Discover the mystery in this FIST RPG mission.\nLink: https://m-gemmell.itch.io/awe-auroras-and-worm-eradication",
     "crumbs": [
       "Hobbies"
     ]
   },
   {
-    "objectID": "hobbies.html#primeval-deities",
-    "href": "hobbies.html#primeval-deities",
+    "objectID": "hobbies.html#monster-of-the-week",
+    "href": "hobbies.html#monster-of-the-week",
     "title": "Hobbies",
-    "section": "Primeval Deities",
-    "text": "Primeval Deities\n\n\n\n A website to host faction information of the Primeval deities for my PUML RPG. Contains missions, lore, and a “bestiary”.\nWebsite: https://m-gemmell.github.io/PRIMEVAL_DEITIES/",
+    "section": "Monster of the Week",
+    "text": "Monster of the Week\nStuff for Monster of the week TTRPG.\n\nThe Aurora’s Avarice\n\n\n\n A Mystery for the RPG Monster of the Week. It includes a skiing mouintain town on the off season, a cult, and giant Ice worms.\nLink: https://m-gemmell.github.io/RPGs/Monster_of_the_week/The_auroras_avarice/01-The_auroras_avarice.html",
     "crumbs": [
       "Hobbies"
-    ]
-  },
-  {
-    "objectID": "hobbies.html#dendrosphaera",
-    "href": "hobbies.html#dendrosphaera",
-    "title": "Hobbies",
-    "section": "Dendrosphaera",
-    "text": "Dendrosphaera\n\n\n\n\nA campaign setting for PUML. Very much under construction.\nWebsite: https://m-gemmell.github.io/DENDROSPHAERA/",
-    "crumbs": [
-      "Hobbies"
-    ]
-  },
-  {
-    "objectID": "hobbies.html#the-rustlands",
-    "href": "hobbies.html#the-rustlands",
-    "title": "Hobbies",
-    "section": "THE RUSTLANDS",
-    "text": "THE RUSTLANDS\n\n\n\n\nThe Rustlands is a setting for FIST. It is heavily steeped in speculative biology with various sentient creatures roaming the lands. Due to the war of 2 deities the waters of this alternate Earth have drained into the ground. Storms rage across the whole world with only a few safe havens formed by the presence of 2 other deities. It is one of these safe havens where the team will enter and explore.\nLink: https://m-gemmell.itch.io/the-rust-lands",
-    "crumbs": [
-      "Hobbies"
-    ]
-  },
-  {
-    "objectID": "hobbies.html#pops-possible-oil-pipe-sabotage",
-    "href": "hobbies.html#pops-possible-oil-pipe-sabotage",
-    "title": "Hobbies",
-    "section": "POPS: Possible Oil Pipe Sabotage",
-    "text": "POPS: Possible Oil Pipe Sabotage\n\n\n\n\nA Dilemma mission for the FIST RPG, were the PCs mercenary crew must decide between protecting an oil pipeline or sabotaging it. Descend into the dense Black forest and lay down you mark on the world.\nLink: https://m-gemmell.itch.io/pops-possible-oil-pipe-sabotage",
-    "crumbs": [
-      "Hobbies"
-    ]
-  },
-  {
-    "objectID": "hobbies.html#awe-auroras-worm-eradication",
-    "href": "hobbies.html#awe-auroras-worm-eradication",
-    "title": "Hobbies",
-    "section": "AWE: Auroras & Worm Eradication",
-    "text": "AWE: Auroras & Worm Eradication\nSnow sport enthusiasts are being found dead with shark-like bites at the Aurora ski resort in Skifry, Canada. Refraction Sports are planning to hold a televised event next year at the Aurora. They want these deaths to stop. Discover the mystery in this FIST RPG mission.\nLink: https://m-gemmell.itch.io/awe-auroras-and-worm-eradication",
-    "crumbs": [
-      "Hobbies"
-    ]
-  },
-  {
-    "objectID": "hobbies.html#the-auroras-avarice",
-    "href": "hobbies.html#the-auroras-avarice",
-    "title": "Hobbies",
-    "section": "The Aurora’s Avarice",
-    "text": "The Aurora’s Avarice\n\n\n\n A Mystery for the RPG Monster of the Week. It includes a skiing mouintain town on the off season, a cult, and giant Ice worms.\nLink: https://m-gemmell.github.io/RPGs/Monster_of_the_week/The_auroras_avarice/01-The_auroras_avarice.html",
-    "crumbs": [
-      "Hobbies"
-    ]
-  },
-  {
-    "objectID": "handy_links.html",
-    "href": "handy_links.html",
-    "title": "Handy links",
-    "section": "",
-    "text": "A place for links I find useful",
-    "crumbs": [
-      "Handy links"
-    ]
-  },
-  {
-    "objectID": "handy_links.html#r-quarto",
-    "href": "handy_links.html#r-quarto",
-    "title": "Handy links",
-    "section": "R & quarto",
-    "text": "R & quarto\n\nTidyverse homepage\nPosit cheatsheets\nrstudio4edu",
-    "crumbs": [
-      "Handy links"
-    ]
-  },
-  {
-    "objectID": "handy_links.html#images",
-    "href": "handy_links.html#images",
-    "title": "Handy links",
-    "section": "Images",
-    "text": "Images\n\nNoun project\nPhylopic",
-    "crumbs": [
-      "Handy links"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Overview",
-    "section": "",
-    "text": "Hello, I’m M Gemmell. This website acts as a landing page for my various interests.\nThis includes:",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Overview",
-    "section": "Contact",
-    "text": "Contact\nYou can contact me on my Bluesky account\nYou can also check out my Linkedin account",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#donations",
-    "href": "index.html#donations",
-    "title": "Overview",
-    "section": "Donations",
-    "text": "Donations\nIf you would like to donate to me you can do so on my Ko-fi",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "Overview",
-    "section": "License",
-    "text": "License\nThis website and its materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
-    "crumbs": [
-      "Overview"
     ]
   },
   {
@@ -187,26 +97,6 @@
     "text": "NEOF Tidyverse\nA resource for the R Tidyverse suite of packages. It is intended as a quick one-stop reference for the various tidyverse packages and their functions, also known as a cookbook.\nLink: https://neof-workshops.github.io/Tidyverse/",
     "crumbs": [
       "Guides"
-    ]
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A space for various projects I have created.",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "projects.html#mgrtibbles",
-    "href": "projects.html#mgrtibbles",
-    "title": "Projects",
-    "section": "mgrtibbles",
-    "text": "mgrtibbles\nR tibbles containing various data curated by m-gemmell\nGithub repo link",
-    "crumbs": [
-      "Projects"
     ]
   },
   {
@@ -347,6 +237,76 @@
     "text": "PGCAP Portfolio\nThe e-portfolio I created for my PGCAP (Postgraduate Certificate of Academic Practice).\nLink: https://m-gemmell.github.io/PGCAP/portfolio",
     "crumbs": [
       "Education"
+    ]
+  },
+  {
+    "objectID": "handy_links.html",
+    "href": "handy_links.html",
+    "title": "Handy links",
+    "section": "",
+    "text": "A place for links I find useful",
+    "crumbs": [
+      "Handy links"
+    ]
+  },
+  {
+    "objectID": "handy_links.html#r-quarto",
+    "href": "handy_links.html#r-quarto",
+    "title": "Handy links",
+    "section": "R & quarto",
+    "text": "R & quarto\n\nTidyverse homepage\nPosit cheatsheets\nrstudio4edu",
+    "crumbs": [
+      "Handy links"
+    ]
+  },
+  {
+    "objectID": "handy_links.html#images",
+    "href": "handy_links.html#images",
+    "title": "Handy links",
+    "section": "Images",
+    "text": "Images\n\nNoun project\nPhylopic",
+    "crumbs": [
+      "Handy links"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Hello, I’m M Gemmell. This website acts as a landing page for my various interests.\nThis includes:",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Overview",
+    "section": "Contact",
+    "text": "Contact\nYou can contact me on my Bluesky account\nYou can also check out my Linkedin account",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#donations",
+    "href": "index.html#donations",
+    "title": "Overview",
+    "section": "Donations",
+    "text": "Donations\nIf you would like to donate to me you can do so on my Ko-fi",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Overview",
+    "section": "License",
+    "text": "License\nThis website and its materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
+    "crumbs": [
+      "Overview"
     ]
   }
 ]
