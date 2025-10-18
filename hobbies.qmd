@@ -30,6 +30,12 @@ The intention is to create random layouts quickly during play.
 
 Website: [https://m-gemmell.github.io/Emaciated_Entities/](https://m-gemmell.github.io/Emaciated_Entities/)
 
+## Mythic Bastionland
+
+Below is The Excised Realm website. It is a website for the lore of the realm and the session write ups.
+
+Website: [https://m-gemmell.github.io/the_excised_realm](https://m-gemmell.github.io/the_excised_realm)
+
 ## PUML
 <center>
 ![](images/PUML_itch_civer.png){style="width:200px; border-radius:15px"}
