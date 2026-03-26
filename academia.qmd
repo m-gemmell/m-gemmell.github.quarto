@@ -9,6 +9,12 @@ Below are links to my various published papers and their related github pages.
 
 Many of my papers come from having been a contributor of the COVID-19 Genomics UK Consortium at The University of Liverpool ([source](https://webarchive.nationalarchives.gov.uk/ukgwa/20230522153320/https://www.cogconsortium.uk/cog-uk/consortium-partners/university-of-liverpool/)).
 
+## 2026
+
+### MUTE drives asymmetric divisions to form stomatal subsidiary cells in Crassulaceae succulents
+
+Link: [https://www.science.org/doi/10.1126/sciadv.aeb8145](https://www.science.org/doi/10.1126/sciadv.aeb8145)
+
 ## 2025
 
 ### A randomised, double-blind clinical study into the effect of zinc citrate trihydrate toothpaste on oral plaque microbiome ecology and function
@@ -21,6 +27,10 @@ Link: [https://journals.asm.org/doi/10.1128/msystems.01358-24](https://journals.
 
 ## 2024
 
+### The Hypolimnas misippus genome supports a common origin of the W chromosome in Lepidoptera
+
+Link: [https://academic.oup.com/gbe/article/16/10/evae215/7850942](https://academic.oup.com/gbe/article/16/10/evae215/7850942)
+
 ### Optimised human stool sample collection for multi-omic microbiota analysis
 
 Link: [https://www.nature.com/articles/s41598-024-67499-4](https://www.nature.com/articles/s41598-024-67499-4)
@@ -32,10 +42,6 @@ R Code Bookdown: [https://m-gemmell.github.io/Gemmell_et_al_2023/01-Intro.html](
 ### Investigation of hospital discharge cases and SARS-CoV-2 introduction into Lothian care homes
 
 Link: [https://www.sciencedirect.com/science/article/pii/S0195670123000671](https://www.sciencedirect.com/science/article/pii/S0195670123000671)
-
-### The Hypolimnas misippus genome supports a common origin of the W chromosome in Lepidoptera
-
-Link: [https://www.biorxiv.org/content/10.1101/2023.03.24.533969v2.abstract](https://www.biorxiv.org/content/10.1101/2023.03.24.533969v2.abstract)
 
 ### The ecology of viruses in urban rodents with a focus on SARS-CoV-2
 
