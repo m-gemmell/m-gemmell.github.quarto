@@ -338,5 +338,15 @@
     "crumbs": [
       "Overview"
     ]
+  },
+  {
+    "objectID": "guides.html#mg-quarto-guide",
+    "href": "guides.html#mg-quarto-guide",
+    "title": "Guides",
+    "section": "MG Quarto guide",
+    "text": "MG Quarto guide\n\n\n\n A quick and dirty guide on how I use quarto to make websites. It is primarily for my use but if someone else finds it I hope it will also proof useful.\nLink: https://m-gemmell.github.io/quarto_guide",
+    "crumbs": [
+      "Guides"
+    ]
   }
 ]

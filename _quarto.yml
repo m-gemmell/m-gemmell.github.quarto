@@ -40,7 +40,7 @@ website:
         aria-label: GitHub
       - icon: bluesky
         href: https://ko-fi.com/waveofinspiration
-        aria-label: Ko-fi
+        aria-label: bluesky
       - icon:  linkedin
         href: https://www.linkedin.com/in/mattie-matthew-gemmell-b562a0b8/
         aria-label: LinkedIn
